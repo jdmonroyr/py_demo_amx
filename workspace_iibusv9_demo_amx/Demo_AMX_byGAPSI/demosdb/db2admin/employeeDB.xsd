@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://demosdb/db2admin" xmlns:demosdbdb2admin="http://demosdb/db2admin" xmlns:ibmSchExtn="http://www.ibm.com/schema/extensions">
+  <!-- Message definition generated from C:\Users\JuanDavid\Documents\GitHub\py_demo_amx\workspace_iibusv9_demo_amx\Data_Definition_for_Demo_AMX\DEMOSDB.dbm -->
+
+<!-- Complex type for DEMOSDB.DB2ADMIN.EMPLOYEE -->
+    <xsd:complexType name="EMPLOYEEType">
+    <xsd:sequence>
+      <xsd:element name="EMPLOYEEID" type="xsd:int"/>
+      <xsd:element name="FIRST_NAME">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="20"/>
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="MIDDLE_NAME" nillable="true">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="20"/>
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element name="LAST_NAME1">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="20"/>
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="LAST_NAME2" nillable="true">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="20"/>
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="BIRTH_DATE" nillable="true" type="xsd:date"/>
+      <xsd:element minOccurs="0" name="HIRING_DATE" nillable="true" type="xsd:date"/>
+      <xsd:element minOccurs="0" name="ROLE_NAME" nillable="true">
+        <xsd:simpleType>
+          <xsd:restriction base="xsd:string">
+            <xsd:maxLength value="128"/>
+          </xsd:restriction>
+        </xsd:simpleType>
+      </xsd:element>
+      <xsd:element minOccurs="0" name="COMMENTS" nillable="true" type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+<!-- Global element for DEMOSDB.DB2ADMIN.EMPLOYEE -->
+    <xsd:element ibmSchExtn:docRoot="true" name="EMPLOYEE" type="demosdbdb2admin:EMPLOYEEType"/>
+</xsd:schema>

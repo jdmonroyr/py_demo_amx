@@ -1,0 +1,121 @@
+!SESSION 2015-03-11 15:50:28.836 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 x86-32 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:51:20.029
+!MESSAGE NLS unused message: PD_HELP_POPUP_RELATED_HELP_SECTION_TITLE in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:51:20.030
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_OPEN_DYNAMIC_HELP_LINK_TEXT in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:51:20.030
+!MESSAGE NLS unused message: PD_HELP_POPUP_DECORATOR_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:51:20.031
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_MORE_INFO_LINK in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:51:20.031
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_SECTION_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 15:52:33.941
+!MESSAGE NLS missing message: ApplicationLibraryProjectReferenceWizardPage_directoryLabel in: com.ibm.etools.mft.util.ui.messages
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2015-03-11 15:53:00.530
+!MESSAGE Project facet jst.jsf has not been defined. It is used in plugin com.ibm.etools.javaee.cdi.core.
+
+!ENTRY org.eclipse.ui 4 4 2015-03-11 15:53:00.945
+!MESSAGE Invalid preference page path: Websphere Application Server
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 17:55:53.735
+!MESSAGE NLS missing message: WSDL_GatewayNonGatewayString in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 17:55:53.737
+!MESSAGE NLS missing message: tooltipFTETransferMode in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 17:55:53.739
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Node_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 17:55:53.740
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Broker_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.770
+!MESSAGE NLS unused message: GenMsgModel_MsgModel_Progress in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.771
+!MESSAGE NLS unused message: GenMsgModel_NewWizard_title in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.771
+!MESSAGE NLS unused message: GenMsgModel_NewWizard_Desc in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.771
+!MESSAGE NLS unused message: GenMsgModel_WizardPage_MsgModelType_title in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.772
+!MESSAGE NLS unused message: GenMsgModel_WizardPage_MsgModelType_desc in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.772
+!MESSAGE NLS unused message: GenMsgModel_WizardPage_MsgModelType_help in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.772
+!MESSAGE NLS unused message: GenMsgModel_WizardPage_CreationType_title in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:02:54.773
+!MESSAGE NLS unused message: GenMsgModel_WizardPage_CreationType_desc in: com.ibm.etools.msg.importer.framework.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:10:57.836
+!MESSAGE NLS missing message: BarEditor_WLM in: com.ibm.etools.mft.bar.editor.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:10:57.837
+!MESSAGE NLS missing message: ResourceSelectionDialog_includeReferencedLibrary in: com.ibm.etools.mft.bar.editor.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:10:57.837
+!MESSAGE NLS missing message: ResourceSelectionDialog_includeReferencedLibraryTooltip in: com.ibm.etools.mft.bar.editor.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:11:21.584
+!MESSAGE NLS unused message: ESQLCompiler_BAR_canAdd_notsubflow in: com.ibm.etools.mft.bar.compiler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-03-11 18:11:21.585
+!MESSAGE NLS missing message: ESQLCompiler_BAR_canAdd_notesql in: com.ibm.etools.mft.bar.compiler.messages
+
+!ENTRY org.eclipse.debug.core 4 2 2015-03-11 18:12:29.181
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.mft.uri.search.AbstractSearchPath.containsAbsUri(Unknown Source)
+	at com.ibm.etools.mft.builder.engine.impl.BaseProjectTable.matchValuesWithSearchPath(Unknown Source)
+	at com.ibm.etools.mft.builder.engine.impl.BaseProjectTable.selectRowsWithSearchPath(Unknown Source)
+	at com.ibm.etools.mft.debug.sourcelookup.MBSourceLookupParticipant.findSourceElements(Unknown Source)
+	at com.ibm.etools.mft.debug.flow.sourcelookup.FlowSourceLookupParticipant.findSourceElements(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector$SourceLookupQuery.run(Unknown Source)
+	at org.eclipse.core.runtime.SafeRunner.run(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.doSourceLookup(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.getSourceElement(Unknown Source)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.lookup(Unknown Source)
+	at org.eclipse.debug.ui.DebugUITools.lookupSource(Unknown Source)
+	at org.eclipse.debug.internal.ui.elements.adapters.StackFrameSourceDisplayAdapter$SourceLookupJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Unknown Source)
+
+!ENTRY org.eclipse.debug.core 4 125 2015-03-11 18:12:29.183
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.mft.uri.search.AbstractSearchPath.containsAbsUri(Unknown Source)
+	at com.ibm.etools.mft.builder.engine.impl.BaseProjectTable.matchValuesWithSearchPath(Unknown Source)
+	at com.ibm.etools.mft.builder.engine.impl.BaseProjectTable.selectRowsWithSearchPath(Unknown Source)
+	at com.ibm.etools.mft.debug.sourcelookup.MBSourceLookupParticipant.findSourceElements(Unknown Source)
+	at com.ibm.etools.mft.debug.flow.sourcelookup.FlowSourceLookupParticipant.findSourceElements(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector$SourceLookupQuery.run(Unknown Source)
+	at org.eclipse.core.runtime.SafeRunner.run(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.doSourceLookup(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.getSourceElement(Unknown Source)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.lookup(Unknown Source)
+	at org.eclipse.debug.ui.DebugUITools.lookupSource(Unknown Source)
+	at org.eclipse.debug.internal.ui.elements.adapters.StackFrameSourceDisplayAdapter$SourceLookupJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Unknown Source)

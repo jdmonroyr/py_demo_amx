@@ -1,0 +1,17 @@
+
+
+Importing file: C:\Users\JuanDavid\Documents\GitHub\py_demo_amx\workspace_iibusv9_demo_amx\Data_Definition_for_Demo_AMX\DEMOSDB.dbm
+
+
+Processing schema DB2ADMIN.
+Creating complex type for table EMPLOYEE.
+Creating global element for table EMPLOYEE.
+Creating file \Demo_AMX_byGAPSI\demosdb\db2admin\employeeDB.xsd in the workspace.
+
+Elapsed time processing this message definition file: 11.868 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+

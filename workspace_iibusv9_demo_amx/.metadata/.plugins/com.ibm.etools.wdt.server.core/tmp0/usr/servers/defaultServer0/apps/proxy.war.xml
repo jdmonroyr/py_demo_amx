@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><archive id="defaultServer0">
+  <dir sourceOnDisk="C:\Users\JuanDavid\Documents\GitHub\py_demo_amx\workspace_iibusv9_demo_amx\.metadata\.plugins\com.ibm.etools.wdt.server.core\tmp0\usr\servers\defaultServer0\apps\proxy" targetInArchive="/"/>
+  <dir sourceOnDisk="C:\Users\JuanDavid\Documents\GitHub\py_demo_amx\workspace_iibusv9_demo_amx\.metadata\.plugins\com.ibm.etools.wdt.server.core\tmp0\usr\servers\defaultServer0\apps\proxy\WEB-INF\Classes" targetInArchive="/WEB-INF/Classes"/>
+</archive>

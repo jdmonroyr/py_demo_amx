@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MessageBroker name="Demo_AMX_byGAPSI">
+  <XSDCollection
+    href="platform:/resource/Demo_AMX_byGAPSI/demosdb/db2admin/employeeDB.xsd"
+    prefix="demosdbdb2admin" targetNamespace="http://demosdb/db2admin">
+    <element
+      href="platform:/resource/Demo_AMX_byGAPSI/demosdb/db2admin/employeeDB.xsd#//EMPLOYEE;XSDElementDeclaration"
+      name="EMPLOYEE" type="mlib://Demo_AMX_byGAPSI#/-/complexType{http://demosdb/db2admin}EMPLOYEEType"/>
+    <complexType
+      baseType="mlib://Demo_AMX_byGAPSI#/-/complexType{http://www.w3.org/2001/XMLSchema}anyType"
+      href="platform:/resource/Demo_AMX_byGAPSI/demosdb/db2admin/employeeDB.xsd#//EMPLOYEEType;XSDComplexTypeDefinition" name="EMPLOYEEType"/>
+  </XSDCollection>
+</MessageBroker>
